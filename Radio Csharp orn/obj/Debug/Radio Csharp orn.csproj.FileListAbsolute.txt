@@ -1,0 +1,29 @@
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Radio Csharp orn.exe.config
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Radio Csharp orn.exe
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Radio Csharp orn.pdb
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csproj.ResolveComReference.cache
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio_Csharp_orn.Form1.resources
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio_Csharp_orn.Properties.Resources.resources
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.exe
+C:\Users\Dell\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Radio Csharp orn.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Radio Csharp orn.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Radio Csharp orn.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\Interop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\bin\Debug\AxInterop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Interop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\AxInterop.WMPLib.dll
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csproj.ResolveComReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio_Csharp_orn.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio_Csharp_orn.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 5\Radio Csharp orn\Radio Csharp orn\obj\Debug\Radio Csharp orn.pdb
